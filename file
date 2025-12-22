@@ -1,0 +1,12 @@
+# Lets check different date types in python
+A = 8
+print("type of A: ", type(A))
+
+B = 7.0
+print("type of B: ", type(B))
+
+C = " penguin"
+print("type of C: ", type (C))
+
+D = False
+print("type of D: ", type (D) )
