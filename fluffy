@@ -1,0 +1,19 @@
+name = "Fluffy"
+age = 14
+knuffy = False
+weight = 45.4
+
+
+
+print("name:", name)
+print("Data type of name is", type(name))
+
+
+print("age:", age)
+print("Data type of age is", type(age))
+
+print("knuffy:", knuffy)
+print("Data type of knuffy is", type(knuffy))
+
+print("weight:", weight)
+print("Data type of weight is", type(weight))
