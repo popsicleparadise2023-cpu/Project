@@ -1,0 +1,38 @@
+name = input("Enter your name: ")
+
+choice = int(input("Enter a number\n1\n2\n3\n4\n5"))
+
+str1 = "congr"
+str2 = "agulations"
+
+if choice == 1:
+    print(str1 + str2)
+
+elif choice == 2:
+    print(name.upper())
+
+elif choice == 3:
+    print(str1 + str2[::-1])
+
+elif choice == 4:
+    print(len(str1 + str2))
+elif choice == 5:
+ print(str1[0])
+ print(str1[1])
+ print(str1[2])
+ print(str1[3])
+ print(str1[4])
+ print(str1[5])
+elif choice == 5:
+ print(str2[1])
+ print(str2[2])
+ print(str2[3])
+ print(str2[4])
+ print(str2[5])
+ print(str2[6])
+ print(str2[7])
+ print(str2[8])
+ print(str2[9])
+ print(str2[10])
+
+
