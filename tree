@@ -1,0 +1,15 @@
+# Calulating the sum of the trees
+tree1 = 23
+tree2 = 45 
+tree3 = 34
+tree4 = 51
+tree5 = 28
+
+sum = tree1+tree2+tree3+tree4+tree5
+print("The sum of all trees is", sum,"inches")
+
+#Calculating the average
+
+average = sum/5
+
+print("The average height of the trees is", average, "inches")
